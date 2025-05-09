@@ -1,1 +1,1 @@
-`aa`
+#### **Uruchomienie programu: ** `streamlit run main.py`
