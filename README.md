@@ -1,1 +1,1 @@
-## **Projekty wykonane na studiach w ramach przedmiotu *Inteligencja obliczeniowa w analizie danych***
+## **Projects completed as part of the *Computational Intelligence in Data Analysis* course**
